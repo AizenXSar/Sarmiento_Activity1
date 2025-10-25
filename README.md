@@ -1,10 +1,10 @@
-# flutter_application_1
+# Sarmiento_Activity1
 
-A new Flutter project.
+A Flutter application showcasing Apple products.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application that displays Apple products in an interactive interface.
 
 A few resources to get you started if this is your first Flutter project:
 
